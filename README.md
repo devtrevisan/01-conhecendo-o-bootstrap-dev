@@ -1,1 +1,4 @@
-01-conhecendo-o-bootstrap-dev
+Faz parte do Curso Dev Samurai
+
+Módulo 2
+ - Conhecendo o Bootstrap
